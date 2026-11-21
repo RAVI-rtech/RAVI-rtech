@@ -1,100 +1,137 @@
-# 👋 Hi, I'm Ravi Charan!
+<!-- ✨ ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:5427A8,100:09090F&height=220&section=header&text=RAVI%20CHARAN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Software%20Builder%20%7C%20Founder&descSize=17&descAlignY=58" width="100%" />
+</p>
 
-### AI/ML Student | Developer | Tech Entrepreneur | Founder
+<!-- ⌨️ ANIMATED INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+experiences;Exploring+Machine+Learning+%26+LLMs;Developing+modern+web+applications;Turning+ideas+into+real-world+products" alt="Animated introduction" />
+</p>
 
-I'm passionate about building technology that solves real-world problems. I enjoy exploring Artificial Intelligence, developing web applications, experimenting with emerging technologies, and turning ideas into practical products.
-
-- 🎓 Pursuing CSE (Artificial Intelligence & Machine Learning)
-- 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
-- 💻 Building web applications and AI-powered platforms
-- 🚀 Founder of **AICONEKT Technologies**
-- 🌟 Creator of **AstraMind AI**
-- 🌱 Constantly learning, building and improving.
+<p align="center">
+  <a href="https://github.com/RAVI-rtech">
+    <img src="https://komarev.com/ghpvc/?username=RAVI-rtech&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Building%20and%20Learning-22C55E?style=flat-square"/>
+</p>
 
 ---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Ravi Charan**, an aspiring software engineer and AI/ML developer passionate about building useful technology.
+
+I'm interested in combining software engineering, artificial intelligence and modern product design to create solutions that make a difference.
+
+- 🎓 CSE – Artificial Intelligence & Machine Learning
+- 🤖 Exploring Generative AI, LLMs and Machine Learning
+- 💻 Interested in Python and Web Development
+- 🚀 Founder of AICON EKT Technologies
+- 🧠 Building AstraMind AI
+- 🌱 Learning, experimenting and building every day
+
+**My philosophy:** Learn continuously. Build intelligently. Create impact.
 
 ## 🚀 Featured Projects
 
-### 1. AstraMind AI
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AstraMind AI
+
 An AI-powered platform focused on making advanced AI accessible to students, developers and creators.
 
-- AI-powered learning and assistance
-- Coding and educational tools
-- Building a unified AI experience
+- AI-powered learning
+- Educational and coding tools
+- Unified AI experience
 
-🔗 [Explore AstraMind AI](https://astramind-ai.ai.studio)
+**[Explore AstraMind →](https://astramind-ai.ai.studio)**
 
-### 2. AICONEKT Technologies
-A technology initiative focused on developing modern software, AI solutions and digital products.
+</td>
+<td width="50%" valign="top">
 
-🔗 [Explore GitHub Repository](https://github.com/vooreyashwanth123-create/aiconekt-technologies)
+### ⚡ AICON EKT Technologies
 
-### 3. LearnSync
-A student-focused skill-sharing platform designed to connect learners, encourage collaboration and enable knowledge exchange.
+A technology initiative focused on software development, AI solutions and modern digital products.
 
-*Currently in development.*
+- Software engineering
+- AI-powered applications
+- Digital innovation
 
----
+**[Explore Repository →](https://github.com/vooreyashwanth123-create/aiconekt-technologies)**
 
-## 💻 Tech Stack & Tools
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Programming Languages**
+### 🌐 LearnSync
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+A student-focused skill-sharing network designed to connect learners and encourage collaboration.
 
-**AI & Development**
+*In development.*
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+### 🔬 Future Experiments
 
-## 🧠 Areas of Interest
+Exploring new ideas in AI, automation, software architecture and modern web technologies.
 
-- Artificial Intelligence & Machine Learning
-- Large Language Models (LLMs)
-- Generative AI & Prompt Engineering
-- Full-Stack Web Development
-- UI/UX Design
-- Cloud Computing
-- Software Architecture
+*More projects coming soon.*
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Statistics
+## 🛠️ Technology Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,supabase&theme=dark" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-7C3AED?style=for-the-badge"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+## 📊 GitHub Analytics
 
----
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RAVI-rtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVI-rtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
+</p>
 
-## 🏆 My Goals
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=RAVI-rtech&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
+</p>
 
-- Build meaningful AI-powered products.
-- Contribute to open-source projects.
-- Improve software engineering and problem-solving skills.
-- Collaborate with developers worldwide.
-- Turn innovative ideas into real-world solutions.
+## 🐍 Contribution Journey
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAVI-rtech/RAVI-rtech/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+</p>
 
-## 🤝 Let's Connect
+## 🎯 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ravicharn/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+- Strengthening programming and software engineering fundamentals.
+- Exploring practical AI and LLM applications.
+- Building scalable and user-friendly applications.
+- Developing meaningful open-source projects.
+- Collaborating with developers and innovators.
 
----
+## 🤝 Connect With Me
 
-### 💡 "Building today what the future needs tomorrow."
-
-⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+  <a href="https://linkedin.com/in/ravicharn/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/RAVI-rtech">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://astramind-ai.ai.studio">
+    <img src="https://img.shields.io/badge/AstraMind-AI-7C3AED?style=for
