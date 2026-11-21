@@ -7,7 +7,7 @@ I'm passionate about building technology that solves real-world problems. I enjo
 - 🎓 Pursuing CSE (Artificial Intelligence & Machine Learning)
 - 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
 - 💻 Building web applications and AI-powered platforms
-- 🚀 Founder of **AICON EKT Technologies**
+- 🚀 Founder of **AICONEKT Technologies**
 - 🌟 Creator of **AstraMind AI**
 - 🌱 Constantly learning, building and improving.
 
@@ -24,7 +24,7 @@ An AI-powered platform focused on making advanced AI accessible to students, dev
 
 🔗 [Explore AstraMind AI](https://astramind-ai.ai.studio)
 
-### 2. AICON EKT Technologies
+### 2. AICONEKT Technologies
 A technology initiative focused on developing modern software, AI solutions and digital products.
 
 🔗 [Explore GitHub Repository](https://github.com/vooreyashwanth123-create/aiconekt-technologies)
