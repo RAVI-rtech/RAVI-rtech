@@ -1,6 +1,6 @@
 <!-- ✨ ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:5427A8,100:09090F&height=220&section=header&text=RAVI%20CHARAN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Software%20Builder%20%7C%20Founder&descSize=17&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:5427A8,100:09090F&height=220&section=header&text=KOLLOJU%20RAVI%20CHARAN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Software%20Builder%20%7C%20Founder&descSize=17&descAlignY=58" width="100%" />
 </p>
 
 <!-- ⌨️ ANIMATED INTRO -->
