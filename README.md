@@ -47,7 +47,7 @@ An AI-powered platform focused on making advanced AI accessible to students, dev
 - Educational and coding tools
 - Unified AI experience
 
-**[Explore AstraMind →](https://astramind-ai.ai.studio)**
+**[Explore AstraMind →](https://astramind.ai.studio)**
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +60,7 @@ A technology initiative focused on software development, AI solutions and modern
 - AI-powered applications
 - Digital innovation
 
-**[Explore Repository →](https://github.com/vooreyashwanth123-create/aiconekt-technologies)**
+**[Explore Repository →](https://github.com/RAVI-rtech/AICONEKT-ODC.git)**
 
 </td>
 </tr>
@@ -133,5 +133,5 @@ Exploring new ideas in AI, automation, software architecture and modern web tech
   <a href="https://github.com/RAVI-rtech">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://astramind-ai.ai.studio">
+  <a href="https://astramind.ai.studio">
     <img src="https://img.shields.io/badge/AstraMind-AI-7C3AED?style=for
